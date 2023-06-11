@@ -1,1 +1,1 @@
-[<div align="center"><img width="400" alt="keeping-software-soft" src="images/keeping-software-soft.jpg"></div>](https://www.itweb.co.za/content/8RgeVDvPg54qKJN3)
+<div align="center"><a herf="https://www.itweb.co.za/content/8RgeVDvPg54qKJN3"><img  width="400" alt="keeping-software-soft" src="images/keeping-software-soft.jpg"></a></div>

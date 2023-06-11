@@ -1,1 +1,1 @@
-<img width="400" alt="keepcalms.png" src="images/keepcalms.png">
+<img width="400" alt="keeping-software-soft" src="images/keeping-software-soft.jpg">

@@ -1,1 +1,1 @@
-<img width="400" alt="keeping-software-soft" src="images/keeping-software-soft.jpg">
+<div align="center"><img width="400" alt="keeping-software-soft" src="images/keeping-software-soft.jpg"></div>
